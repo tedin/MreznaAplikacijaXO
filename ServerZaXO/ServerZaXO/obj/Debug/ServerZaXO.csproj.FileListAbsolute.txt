@@ -1,0 +1,12 @@
+C:\Users\EDIN\Desktop\Mrezna aplikacija XO\ServerZaXO\ServerZaXO\bin\Debug\ServerZaXO.exe.config
+C:\Users\EDIN\Desktop\Mrezna aplikacija XO\ServerZaXO\ServerZaXO\bin\Debug\ServerZaXO.exe
+C:\Users\EDIN\Desktop\Mrezna aplikacija XO\ServerZaXO\ServerZaXO\bin\Debug\ServerZaXO.pdb
+C:\Users\EDIN\Desktop\Mrezna aplikacija XO\ServerZaXO\ServerZaXO\obj\Debug\ServerZaXO.csprojResolveAssemblyReference.cache
+C:\Users\EDIN\Desktop\Mrezna aplikacija XO\ServerZaXO\ServerZaXO\obj\Debug\ServerZaXO.exe
+C:\Users\EDIN\Desktop\Mrezna aplikacija XO\ServerZaXO\ServerZaXO\obj\Debug\ServerZaXO.pdb
+C:\Users\terzi\Desktop\Mrezna aplikacija XO\ServerZaXO\ServerZaXO\bin\Debug\ServerZaXO.exe.config
+C:\Users\terzi\Desktop\Mrezna aplikacija XO\ServerZaXO\ServerZaXO\obj\Debug\ServerZaXO.pdb
+C:\Users\terzi\Desktop\Mrezna aplikacija XO\ServerZaXO\ServerZaXO\bin\Debug\ServerZaXO.exe
+C:\Users\terzi\Desktop\Mrezna aplikacija XO\ServerZaXO\ServerZaXO\bin\Debug\ServerZaXO.pdb
+C:\Users\terzi\Desktop\Mrezna aplikacija XO\ServerZaXO\ServerZaXO\obj\Debug\ServerZaXO.csprojResolveAssemblyReference.cache
+C:\Users\terzi\Desktop\Mrezna aplikacija XO\ServerZaXO\ServerZaXO\obj\Debug\ServerZaXO.exe

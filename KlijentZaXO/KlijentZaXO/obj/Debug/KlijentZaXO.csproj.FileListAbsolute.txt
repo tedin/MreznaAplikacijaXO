@@ -1,0 +1,12 @@
+C:\Users\EDIN\Desktop\Mrezna aplikacija XO\KlijentZaXO\KlijentZaXO\bin\Debug\KlijentZaXO.exe.config
+C:\Users\EDIN\Desktop\Mrezna aplikacija XO\KlijentZaXO\KlijentZaXO\bin\Debug\KlijentZaXO.exe
+C:\Users\EDIN\Desktop\Mrezna aplikacija XO\KlijentZaXO\KlijentZaXO\bin\Debug\KlijentZaXO.pdb
+C:\Users\EDIN\Desktop\Mrezna aplikacija XO\KlijentZaXO\KlijentZaXO\obj\Debug\KlijentZaXO.csprojResolveAssemblyReference.cache
+C:\Users\EDIN\Desktop\Mrezna aplikacija XO\KlijentZaXO\KlijentZaXO\obj\Debug\KlijentZaXO.exe
+C:\Users\EDIN\Desktop\Mrezna aplikacija XO\KlijentZaXO\KlijentZaXO\obj\Debug\KlijentZaXO.pdb
+C:\Users\terzi\Desktop\Mrezna aplikacija XO\KlijentZaXO\KlijentZaXO\bin\Debug\KlijentZaXO.exe.config
+C:\Users\terzi\Desktop\Mrezna aplikacija XO\KlijentZaXO\KlijentZaXO\obj\Debug\KlijentZaXO.pdb
+C:\Users\terzi\Desktop\Mrezna aplikacija XO\KlijentZaXO\KlijentZaXO\bin\Debug\KlijentZaXO.exe
+C:\Users\terzi\Desktop\Mrezna aplikacija XO\KlijentZaXO\KlijentZaXO\bin\Debug\KlijentZaXO.pdb
+C:\Users\terzi\Desktop\Mrezna aplikacija XO\KlijentZaXO\KlijentZaXO\obj\Debug\KlijentZaXO.csprojResolveAssemblyReference.cache
+C:\Users\terzi\Desktop\Mrezna aplikacija XO\KlijentZaXO\KlijentZaXO\obj\Debug\KlijentZaXO.exe
